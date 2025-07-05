@@ -11,11 +11,11 @@
 	<atom:link href="https://drive-lab-cmu.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://drive-lab-cmu.github.io/</link>
 	<description>Driverless Intelligent Vehicle Lab - Carnegie Mellon University</description>
-	<lastBuildDate>Fri, 25 Apr 2025 22:20:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Jul 2025 18:56:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 </channel>
 </rss>
