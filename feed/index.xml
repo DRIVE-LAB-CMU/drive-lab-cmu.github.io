@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>DRIVE LAB</title>
+	<title></title>
 	<atom:link href="https://drive-lab-cmu.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://drive-lab-cmu.github.io/</link>
 	<description>Driverless Intelligent Vehicle Lab - Carnegie Mellon University</description>
-	<lastBuildDate>Sat, 05 Jul 2025 18:56:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Sep 2025 16:38:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
-	<url>https://drive-lab-cmu.github.io/wp-content/uploads/2024/06/cropped-ri-mark-in-circle-3000x3000-1-1200x1200-1-32x32.png</url>
-	<title>DRIVE LAB</title>
+	<url>https://drive-lab-cmu.github.io/wp-content/uploads/2025/07/cropped-logo_wb-32x32.png</url>
+	<title></title>
 	<link>https://drive-lab-cmu.github.io/</link>
 	<width>32</width>
 	<height>32</height>
